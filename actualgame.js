@@ -25,6 +25,8 @@ function playGame(playerSelection, computerSelection) {
 }
 }
 
+// if/else statement that sets up the main logic of the game
+
 function game() {
   let playerScore = 0;
   let computerScore = 0;
